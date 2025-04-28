@@ -4,7 +4,7 @@ Website:
 http://cmscollegemanagementsystem.pythonanywhere.com/
 
 # Project Summary
-This is a Simple College Management System Developed for Educational Purpose using Python (Django) .
+This is a Simple College Management System Developed for Educational Purpose using Python (Django).
 # Features of this Website
 # A. Admin Users Can
 1. See Overall Summary Charts of Students Performance, Staffs Performance, Add/Remove Courses, Add/Remove Subjects, Check/Reply Leave application of staffs/students, Check/reply on feedback bt staffs/students etc .
@@ -31,7 +31,7 @@ This is a Simple College Management System Developed for Educational Purpose usi
 
 # B. Staff/Teachers Can
 
-1. See the Overall Summary Charts related to their students, their subjects, leave status, etc.
+1. See the Overall Summary Charts related to their students, their subjects, leave status, etc  .
 
 2. Take/Update Students Attendance
 
